@@ -1,2 +1,7 @@
 hello i am learning stash
-written
+<<<<<<< Updated upstream
+written=
+first code
+second code
+
+>>>>>>> Stashed changes
